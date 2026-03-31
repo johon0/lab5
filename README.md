@@ -3,9 +3,9 @@
 <img width="424" height="187" alt="image" src="https://github.com/user-attachments/assets/e31ac82b-924e-4888-ab99-e685c691458f" />
 
 # Задание 2 (вывод)
-
+График:
 <img width="1193" height="685" alt="image" src="https://github.com/user-attachments/assets/77380bf6-c67a-4a53-afc2-645aac881b17" />
-
+Консоль:
 ```
 📝 ПРОВЕРКА РАБОТЫ КОМПИЛЯТОРА
 --------------------------------------------------
